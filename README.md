@@ -1,7 +1,7 @@
-# mikro-orm-access-em-from-entity
-## Trying to figure out how to access the EntityManager from an entity
+# mikro-orm-embeddables-m1-fieldName
+## Embeddables: `fieldName` option is ignored
 
-Related GH discussion: https://github.com/mikro-orm/mikro-orm/discussions/2037
+Related GH issue: https://github.com/mikro-orm/mikro-orm/issues/2165
 
 ### Getting started
 ```
